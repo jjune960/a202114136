@@ -7,5 +7,6 @@ public class Main {
 		Two.print();
 	    System.out.println("one 202114136");
 	    Three.print();
+		Four.print();
 	  }
 }
